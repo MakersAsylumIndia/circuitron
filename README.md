@@ -8,14 +8,8 @@ You’ll be using the **GitHub Wiki** to update all your project details in a st
 ---
 
 Hello fellow maker or innovator!
-Have you ever wanted to practice your favourite sport for an upcoming competition or just wanted to play for leisure but none of your friends are free to play? Team Circuitron is here to solve that problem! We are working towards creating your very own Table-Tennis ball launcher or as we like to call it the TTrex!
+Have you ever wanted to practice your favourite sport for an upcoming competition or just wanted to play for leisure but none of your friends are free to play? Team Circuitron is here to solve that problem! We are working towards creating your very own Table-Tennis ball launcher or as we like to call it the TT-rex!
 ---
-
-## 🛠 Where to Document Everything Else
-
-We’ve already created a standard set of [**Wiki pages**](https://github.com/MakersAsylumIndia/Bowl-Buddy/wiki) for your project in this repository — you just need to **update them with your project information**.
-
-Each section is ready with headings like:
 
 - Project Title
 - Problem Statement
